@@ -7,6 +7,7 @@ This is an educational React TypeScript project that demonstrates the implementa
 ## 🎯 Project Purpose
 
 This project was created as a learning exercise to understand:
+
 - **React Component Architecture**: Building reusable UI components
 - **TypeScript Integration**: Type safety and interface definitions
 - **Modern React Patterns**: Functional components with hooks
@@ -17,6 +18,7 @@ This project was created as a learning exercise to understand:
 ## 🚀 Features
 
 ### Alert Component Types
+
 - **Default**: General information alerts
 - **Info**: Informational messages
 - **Success**: Success confirmations
@@ -24,6 +26,7 @@ This project was created as a learning exercise to understand:
 - **Warning**: Warning messages
 
 ### Component Features
+
 - ✅ **Flexible Content**: Supports both description text and custom children
 - ✅ **Icon Integration**: Customizable icons for each alert type
 - ✅ **Dismissible**: Close functionality with smooth animations
@@ -43,17 +46,20 @@ This project was created as a learning exercise to understand:
 ## 📦 Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/MahmoudAbdullah228/Alert.git
 cd Alert
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -78,26 +84,31 @@ src/
 ## 💡 What I Learned
 
 ### 1. **Component Design Patterns**
+
 - How to create flexible, reusable components
 - Props interface design for maximum flexibility
 - Children prop usage for custom content
 
 ### 2. **TypeScript Best Practices**
+
 - Type definitions for component props
 - Union types for alert variants
 - Interface design for maintainable code
 
 ### 3. **Modern React Development**
+
 - Functional components with hooks
 - Event handling and DOM manipulation
 - Component composition patterns
 
 ### 4. **Styling with SCSS**
+
 - SCSS module organization
 - CSS custom properties usage
 - Responsive design implementation
 
 ### 5. **Development Workflow**
+
 - Vite build tool configuration
 - ESLint setup for code quality
 - TypeScript compilation and type checking
@@ -105,6 +116,7 @@ src/
 ## 🎨 Usage Examples
 
 ### Basic Alert
+
 ```tsx
 <Alert
   type="Info"
@@ -115,6 +127,7 @@ src/
 ```
 
 ### Alert with Custom Content
+
 ```tsx
 <Alert type="Success" icon={<CheckCheck />} title="Success">
   <div className="custom-content">
@@ -145,6 +158,7 @@ This project helped me understand:
 ## 🤝 Contributing
 
 This is an educational project, but contributions are welcome! Feel free to:
+
 - Report bugs
 - Suggest new features
 - Improve documentation
@@ -160,4 +174,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*This project was created for educational purposes to learn modern React development practices and TypeScript integration.*
+_This project was created for educational purposes to learn modern React development practices and TypeScript integration._

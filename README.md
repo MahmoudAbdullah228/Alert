@@ -4,6 +4,12 @@
 
 This is an educational React TypeScript project that demonstrates the implementation of a reusable Alert component system. The project showcases modern React development practices, TypeScript integration, and component design patterns.
 
+## 📷 Preview
+
+![Alert Component Preview](./public/Alerts.png)
+
+_Different types of alert components with various styles and functionalities_
+
 ## 🎯 Project Purpose
 
 This project was created as a learning exercise to understand:

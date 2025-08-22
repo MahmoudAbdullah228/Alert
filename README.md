@@ -164,10 +164,6 @@ This is an educational project, but contributions are welcome! Feel free to:
 - Improve documentation
 - Add new alert types
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Mahmoud Abdullah** - [GitHub Profile](https://github.com/MahmoudAbdullah228)
